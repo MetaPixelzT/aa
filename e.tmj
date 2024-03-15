@@ -5319,7 +5319,7 @@
                  "y":381.53053030303
                 }, 
                 {
-                 "height":297.545,
+                 "height":351.545,
                  "id":25,
                  "name":"focusable3",
                  "properties":[
@@ -5336,9 +5336,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":275.725,
+                 "width":282.391666666667,
                  "x":965.167803030303,
-                 "y":384.560833333333
+                 "y":321.2275
                 }, 
                 {
                  "height":273.302,
@@ -5452,7 +5452,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
