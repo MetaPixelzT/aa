@@ -384,7 +384,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/airtable.com\/invite\/l?inviteId=invGHJhcvUapE6b9P&inviteToken=49396fffe30d97285205431e28bc86b111470dd62044f6e843fba5e4ea7e68ed&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts"
+                 "value":"https:\/\/mail.google.com\/mail\/u\/0\/#inbox"
                 }],
          "type":"tilelayer",
          "visible":true,
