@@ -384,7 +384,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/mail.google.com\/chat\/u\/0\/#chat\/dm\/xxFen0AAAAE"
+                 "value":"https:\/\/app.slack.com\/client\/T55GMCSAH\/C55GMD561"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -5452,7 +5452,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
