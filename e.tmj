@@ -912,7 +912,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/trello.com\/invite\/b\/55dmQvrC\/ATTI9371bab377c9ed9bd987067d9d5cdadf99175E5F\/management"
+                 "value":"https:\/\/calendar.google.com\/calendar\/u\/0\/r\/week"
                 }],
          "type":"tilelayer",
          "visible":true,
