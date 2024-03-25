@@ -4679,6 +4679,94 @@
                  "width":32,
                  "x":878,
                  "y":1728
+                }, 
+                {
+                 "height":387.06,
+                 "id":20,
+                 "name":"focusable3",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":521.846,
+                 "x":2298.077,
+                 "y":219.47
+                }, 
+                {
+                 "height":387.56,
+                 "id":21,
+                 "name":"focusable3",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":518.346,
+                 "x":1757.077,
+                 "y":220.47
+                }, 
+                {
+                 "height":386.06,
+                 "id":22,
+                 "name":"focusable3",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":522.846,
+                 "x":1210.077,
+                 "y":220.47
+                }, 
+                {
+                 "height":386.56,
+                 "id":23,
+                 "name":"focusable3",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":519.346,
+                 "x":668.077,
+                 "y":220.97
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -5957,7 +6045,7 @@
          "y":0
         }],
  "nextlayerid":125,
- "nextobjectid":20,
+ "nextobjectid":24,
  "orientation":"orthogonal",
  "properties":[
         {
