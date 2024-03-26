@@ -4615,7 +4615,7 @@
                  "y":912.666666666667
                 }, 
                 {
-                 "height":224,
+                 "height":292,
                  "id":16,
                  "name":"jitsiMeetingRoom",
                  "properties":[
@@ -4642,9 +4642,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":192,
-                 "x":1463.81818181818,
-                 "y":1561.75757575758
+                 "width":458,
+                 "x":2330.81818181818,
+                 "y":219.75757575758
                 }, 
                 {
                  "height":64,
@@ -4767,6 +4767,102 @@
                  "width":520.679333333333,
                  "x":665.410333333333,
                  "y":123.636666666667
+                }, 
+                {
+                 "height":231,
+                 "id":24,
+                 "name":"jitsiMeetingRoom",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MeetingRoom"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":447,
+                 "x":1789.5,
+                 "y":250.5
+                }, 
+                {
+                 "height":294,
+                 "id":25,
+                 "name":"jitsiMeetingRoom",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MeetingRoom"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":443,
+                 "x":1249.5,
+                 "y":222.5
+                }, 
+                {
+                 "height":301,
+                 "id":26,
+                 "name":"jitsiMeetingRoom",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MeetingRoom"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":519,
+                 "x":665.5,
+                 "y":213.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -6045,7 +6141,7 @@
          "y":0
         }],
  "nextlayerid":125,
- "nextobjectid":24,
+ "nextobjectid":27,
  "orientation":"orthogonal",
  "properties":[
         {
