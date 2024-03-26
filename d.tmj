@@ -4681,7 +4681,7 @@
                  "y":1728
                 }, 
                 {
-                 "height":387.06,
+                 "height":479.06,
                  "id":20,
                  "name":"focusable3",
                  "properties":[
@@ -4700,10 +4700,10 @@
                  "visible":true,
                  "width":521.846,
                  "x":2298.077,
-                 "y":219.47
+                 "y":127.47
                 }, 
                 {
-                 "height":387.56,
+                 "height":482.226666666667,
                  "id":21,
                  "name":"focusable3",
                  "properties":[
@@ -4722,10 +4722,10 @@
                  "visible":true,
                  "width":518.346,
                  "x":1757.077,
-                 "y":220.47
+                 "y":125.803333333333
                 }, 
                 {
-                 "height":386.06,
+                 "height":486.06,
                  "id":22,
                  "name":"focusable3",
                  "properties":[
@@ -4742,12 +4742,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":522.846,
-                 "x":1210.077,
-                 "y":220.47
+                 "width":512.179333333333,
+                 "x":1214.077,
+                 "y":121.803333333333
                 }, 
                 {
-                 "height":386.56,
+                 "height":483.893333333333,
                  "id":23,
                  "name":"focusable3",
                  "properties":[
@@ -4764,9 +4764,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":519.346,
-                 "x":668.077,
-                 "y":220.97
+                 "width":520.679333333333,
+                 "x":665.410333333333,
+                 "y":123.636666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
